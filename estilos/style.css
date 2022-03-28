@@ -36,9 +36,13 @@ a.externo::after{
 }
 
 header{
-    background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));
-    min-height: 200px;
-    text-align: center;
+    background-image: url('../imagens/android.jpg');
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-attachment: fixed;
+    min-height: 230px;
+    text-align: right;
+    padding: 70px;
 
 }
 
@@ -57,7 +61,7 @@ header p{
     font-size: 1.2em;
     max-width: 500px;
     color: white;
-    margin: auto;
+    margin: 0px 0px 0px 800px;
     padding-right: 10px;
     padding-left: 10px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.5);
