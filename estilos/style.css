@@ -38,7 +38,7 @@ a.externo::after{
 header{
     background-image: url('../imagens/android.jpg');
     background-repeat: no-repeat;
-    background-size:contain;
+    background-size: contain;
     background-attachment: fixed;
     min-height: 230px;
     text-align: right;
