@@ -49,7 +49,7 @@ header{
 header h1{
     color: white;
     font-family: var(--fonte-destaque);
-    padding-top: 40px;
+    padding-top: 30px;
     margin-bottom: 20px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.5);
     font-size: 3em;
@@ -59,9 +59,9 @@ header h1{
 header p{
     font-family: var(--fonte-padao);
     font-size: 1.2em;
-    max-width: 500px;
+    max-width: 400px;
     color: white;
-    margin: 0px 0px 0px 800px;
+    margin: 30px 0px 0px 170px;
     padding-right: 10px;
     padding-left: 10px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.5);
